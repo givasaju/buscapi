@@ -1,0 +1,9 @@
+{
+  "job_id": "a0728905-1d20-45c3-8ebb-658de705e543",
+  "status": "completed",
+  "output_path": "static\\relatorio_buscapi_20250907_195340.pdf",
+  "queued_at": "2025-09-07T19:53:40.295190",
+  "search_query_id": 458,
+  "started_at": "2025-09-07T19:53:40.295190",
+  "completed_at": "2025-09-07T19:53:40.745746"
+}

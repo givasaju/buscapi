@@ -1,0 +1,6 @@
+
+
+Com esta implementação da LLM dinâmica ficou garantido que apenas o agente coordenador tem acesso a esta llm
+
+Coloque um botão semelhante ao de visualização de detelhas na tela principal do histórico de 
+buscas, seguindo o mesma composição e padrão visual dos botões existen

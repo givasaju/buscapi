@@ -1,0 +1,10 @@
+{
+  "job_id": "83cc043f-40e2-42c9-a57e-37dcd37967cf",
+  "status": "completed",
+  "output_path": "static\\relatorio_buscapi_20250907_210455.pdf",
+  "queued_at": "2025-09-07T21:04:55.371510",
+  "search_query_id": 99999,
+  "llm_model": "gpt-5-nano",
+  "started_at": "2025-09-07T21:04:55.371510",
+  "completed_at": "2025-09-07T21:04:55.755882"
+}

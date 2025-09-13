@@ -1,0 +1,10 @@
+{
+  "job_id": "729e6609-2496-4273-8fd2-35f798b398ec",
+  "status": "failed",
+  "output_path": "static\\relatorio_buscapi_20250907_195105.pdf",
+  "queued_at": "2025-09-07T19:51:05.308959",
+  "search_query_id": 457,
+  "started_at": "2025-09-07T19:51:05.312456",
+  "error": "Falha ao gerar PDF: Erro ao gerar relatório PDF: _path_exists: path should be string, bytes, os.PathLike or integer, not list",
+  "completed_at": "2025-09-07T19:51:05.322145"
+}

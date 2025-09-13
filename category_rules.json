@@ -1,0 +1,53 @@
+[
+  {
+    "category": "Inteligência_Artificial",
+    "keywords": ["artificial intelligence", "machine learning", "deep learning", "neural network", "ai", "ml", "inteligência artificial", "aprendizado de máquina"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Biotecnologia",
+    "keywords": ["biotechnology", "biotech", "genetic", "dna", "rna", "protein", "biotecnologia", "genética", "proteína"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Blockchain",
+    "keywords": ["blockchain", "cryptocurrency", "bitcoin", "ethereum", "smart contract", "distributed ledger", "criptomoeda"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Internet_das_Coisas",
+    "keywords": ["internet of things", "iot", "smart device", "connected device", "sensor network", "internet das coisas"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Energia_Renovável",
+    "keywords": ["renewable energy", "solar", "wind energy", "battery", "energy storage", "energia renovável", "solar", "eólica", "bateria"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Saúde_Digital",
+    "keywords": ["digital health", "telemedicine", "health monitoring", "medical device", "healthcare", "saúde digital", "telemedicina", "dispositivo médico"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Educação_Tecnológica",
+    "keywords": ["educational technology", "e-learning", "online education", "educational software", "learning platform", "tecnologia educacional", "ensino online"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Automação_Industrial",
+    "keywords": ["industrial automation", "robotics", "manufacturing", "process control", "automação industrial", "robótica", "manufatura"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Segurança_Cibernética",
+    "keywords": ["cybersecurity", "information security", "data protection", "encryption", "security system", "segurança cibernética", "proteção de dados", "criptografia"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  },
+  {
+    "category": "Mobilidade_Urbana",
+    "keywords": ["urban mobility", "smart transportation", "electric vehicle", "autonomous vehicle", "traffic management", "mobilidade urbana", "veículo elétrico", "veículo autônomo"],
+    "include_sources": ["USPTO", "EPO", "Serper"]
+  }
+]
+

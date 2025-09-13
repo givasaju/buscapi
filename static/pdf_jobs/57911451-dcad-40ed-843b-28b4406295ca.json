@@ -1,0 +1,10 @@
+{
+  "job_id": "57911451-dcad-40ed-843b-28b4406295ca",
+  "status": "completed",
+  "output_path": "static\\relatorio_buscapi_20250907_211819.pdf",
+  "queued_at": "2025-09-07T21:18:19.153331",
+  "search_query_id": 466,
+  "llm_model": null,
+  "started_at": "2025-09-07T21:18:19.168954",
+  "completed_at": "2025-09-07T21:18:19.590097"
+}
